@@ -1,2 +1,2 @@
 echo "Hola mundo con Jenkins y GitHub"
-ecgo "Probando Trigger"
+echo "Probando Trigger"
